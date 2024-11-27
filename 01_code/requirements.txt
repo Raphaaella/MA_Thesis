@@ -1,0 +1,7 @@
+pandas
+matplotlib
+asyncio
+logging
+sentence-transformers
+torch
+tqdm
