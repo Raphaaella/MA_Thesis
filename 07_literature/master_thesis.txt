@@ -1,0 +1,283 @@
+%0 Journal Article
+%T The Anatomy of a Scientific Rumor
+%V 3
+%N 1
+%P 2980
+%U https://www.nature.com/articles/srep02980
+%G en
+%J Scientific Reports
+%A De Domenico, M.
+%A Lima, A.
+%A Mougel, P.
+%A Musolesi, M.
+%D 2013-10-18
+
+%0 Journal Article
+%T Science communication and the issue of trust
+%V 15
+%N 05
+%P C01
+%U https://jcom.sissa.it/article/pubid/JCOM_1505_2016_C01/
+%X Science communication, whether internally or to the general public depends on trust, both trust in the source and trust in the medium of communication. With the new 'ecology of communication' this trust is endangered. On the one hand the very term of science communication has been captured by many different actors (e.g., governments, PR experts, universities and research institutions, science journalists, and bloggers) apart from scientists themselves to whom science communication means different things and whose communication is tainted by special interests. Some of these actors are probably more trusted by the general public than others. On the other hand, the channels that are used to communicate science are also not trusted equally. Particularly the widespread use of social media raises doubts about the credibility of the communication spread through them.
+%G en
+%J Journal of Science Communication
+%A Weingart, Peter
+%A Guenther, Lars
+%D 2016-9-21
+
+%0 Journal Article
+%T Science audiences, misinformation, and fake news
+%V 116
+%N 16
+%P 7662-7669
+%U https://pnas.org/doi/full/10.1073/pnas.1805871115
+%X Concerns about public misinformation in the United States—ranging from politics to science—are growing. Here, we provide an overview of how and why citizens become (and sometimes remain) misinformed about science. Our discussion focuses specifically on misinformation among individual citizens. However, it is impossible to understand individual information processing and acceptance without taking into account social networks, information ecologies, and other macro-level variables that provide important social context. Specifically, we show how being misinformed is a function of a person’s ability and motivation to spot falsehoods, but also of other group-level and societal factors that increase the chances of citizens to be exposed to correct(ive) information. We conclude by discussing a number of research areas—some of which echo themes of the 2017 National Academies of Sciences, Engineering, and Medicine’s
+              Communicating Science Effectively
+              report—that will be particularly important for our future understanding of misinformation, specifically a systems approach to the problem of misinformation, the need for more systematic analyses of science communication in new media environments, and a (re)focusing on traditionally underserved audiences.
+%G en
+%J Proceedings of the National Academy of Sciences
+%A Scheufele, Dietram A.
+%A Krause, Nicole M.
+%D 2019-04-16
+
+%0 Encyclopedia
+%T What is the Higgs boson?
+%U https://home.cern/science/physics/higgs-boson/what
+%A CERN
+%D 2023
+
+%0 Generic
+%T Higgs Twitter Dataset
+%U http://snap.stanford.edu/data/higgs-twitter.html
+%A Leskovec, Jure
+%D 31.03.2015
+
+%0 Journal Article
+%T What makes you tick? The psychology of social media engagement in space science communication
+%V 68
+%P 480-492
+%U https://linkinghub.elsevier.com/retrieve/pii/S0747563216308172
+%G en
+%J Computers in Human Behavior
+%A Hwong, Yi-Ling
+%A Oliver, Carol
+%A Van Kranendonk, Martin
+%A Sammut, Claude
+%A Seroussi, Yanir
+%D 03/2017
+
+%0 Journal Article
+%T Comments on “A New Product Growth for Model Consumer Durables The Bass Model”
+%V 50
+%N 12_supplement
+%P 1833-1840
+%U https://pubsonline.informs.org/doi/10.1287/mnsc.1040.0300
+%X The paper that I authored and that was published in Management Science in 1969 (Bass 1969) has become widely known as the “Bass Model” (see Morrison and Raju 2004). The model of the diffusion of new products and technologies developed in the paper is one of the most widely applied models in management science. It was especially gratifying for me to learn that INFORMS members have voted the “Bass Model” paper as one of the Top 10 Most Influential Papers published in the 50-year history of Management Science in connection with the 50th anniversary of the journal. In this commentary on the paper I shall discuss some background and history of the development of the paper, the reasons why the model has been influential, some important extensions of the model, some examples of applications, and some examples of the frontiers of research involving the Bass Model. In the current period, in which there is much discussion about the marketing of applications of management science methods and practice, I hope that this commentary will be useful in providing insights about some of the properties of models that will be applied.
+%G en
+%J Management Science
+%A Bass, Frank M.
+%D 12/2004
+
+%0 Journal Article
+%T Popularity Prediction for Single Tweet based on Heterogeneous Bass Model
+%P 1-1
+%U https://ieeexplore.ieee.org/document/8896027/
+%X Predicting the popularity of a single tweet is useful for both users and enterprises. However, adopting existing topic or event prediction models cannot obtain satisfactory results. The reason is that one topic or event that consists of multiple tweets, has more features and characteristics than a single tweet. In this paper, we propose two variations of Heterogeneous Bass models (HBass), originally developed in the field of marketing science, namely Spatial-Temporal Heterogeneous Bass Model (ST-HBass) and Feature-Driven Heterogeneous Bass Model (FDHBass), to predict the popularity of a single tweet at the early stage and the stable stage. We further design an Interaction Enhancement to improve the performance, which considers the competition and cooperation from different tweets with the common topic. In addition, it is often difficult to depict popularity quantitatively. We design an experiment to get the weight of favorite, retweet and reply, and apply the linear regression to calculate the popularity. Furthermore, we design a clustering method to bound the popular threshold. Once the weight and popular threshold are determined, the status whether a tweet will be popular or not can be justified. Our model is validated by conducting experiments on real-world Twitter data, and the results show the efficiency and accuracy of our model, with less absolute percent error and the best Precision and F-score. In all, we introduce Bass model into social network single-tweet prediction to show it can achieve excellent performance.
+%G en
+%J IEEE Transactions on Knowledge and Data Engineering
+%A Gao, Xiaofeng
+%A Zheng, Zuowu
+%A Chu, Quanquan
+%A Tang, Shaojie
+%A Chen, Guihai
+%A Deng, Qianni
+%D 2020
+
+%0 Book
+%T Database Systems for Advanced Applications: 21st International Conference, DASFAA 2016, Dallas, TX, USA, April 16-19, 2016, Proceedings, Part II
+%S Lecture Notes in Computer Science
+%V 9643
+%C Cham
+%I Springer International Publishing
+%@ 978-3-319-32048-9 978-3-319-32049-6
+%U http://link.springer.com/10.1007/978-3-319-32049-6
+%G en
+%E Navathe, Shamkant B.
+%E Wu, Weili
+%E Shekhar, Shashi
+%E Du, Xiaoyong
+%E Wang, Sean X.
+%E Xiong, Hui
+%D 2016
+
+%0 Book Section
+%T STH-Bass: A Spatial-Temporal Heterogeneous Bass Model to Predict Single-Tweet Popularity
+%V 9643
+%C Cham
+%I Springer International Publishing
+%P 18-32
+%@ 978-3-319-32048-9 978-3-319-32049-6
+%U http://link.springer.com/10.1007/978-3-319-32049-6_2
+%X Prediction in social networks attracts more and more attentions since social networks have become an important part of people’s lives. Although a few topic or event prediction models have been proposed in the past few years, researches that focus on the single tweet prediction just emerge recently. In this paper, we propose STH-Bass, a Spatial and Temporal Heterogeneous Bass model derived from economic ﬁeld, to predict the popularity of a single tweet. Leveraging only the ﬁrst day’s information after a tweet is posted, STH-Bass can not only predict the trend of a tweet with favorite count and retweet count, but also classify whether the tweet will be popular in the future. We perform extensive experiments to evaluate the eﬃciency and accuracy of STHBass based on real-world Twitter data. The evaluation results show that STH-Bass obtains much less APE than the baselines when predicting the trend of a single tweet, and an average of 24 % higher precision when classifying the tweets popularity.
+%G en
+%B Database Systems for Advanced Applications
+%E Navathe, Shamkant B.
+%E Wu, Weili
+%E Shekhar, Shashi
+%E Du, Xiaoyong
+%E Wang, Sean X.
+%E Xiong, Hui
+%A Yan, Yan
+%A Tan, Zhaowei
+%A Gao, Xiaofeng
+%A Tang, Shaojie
+%A Chen, Guihai
+%D 2016
+
+%0 Generic
+%T Computational analysis of US Congressional speeches reveals a shift from evidence to intuition
+%I arXiv
+%U http://arxiv.org/abs/2405.07323
+%X Pursuit of honest and truthful decision-making is crucial for governance and accountability in democracies. However, people sometimes take different perspectives of what it means to be honest and how to pursue truthfulness. Here we explore a continuum of perspectives from evidence-based reasoning, rooted in ascertainable facts and data, at one end, to intuitive decisions that are driven by feelings and subjective interpretations, at the other. We analyze the linguistic traces of those contrasting perspectives in Congressional speeches from 1879 to 2022. We find that evidence-based language has continued to decline since the mid-1970s, together with a decline in legislative productivity. The decline was accompanied by increasing partisan polarization in Congress and rising income inequality in society. Results highlight the importance of evidence-based language in political decision-making.
+%G en
+%A Aroyehun, Segun Taofeek
+%A Simchon, Almog
+%A Carrella, Fabio
+%A Lasser, Jana
+%A Lewandowsky, Stephan
+%A Garcia, David
+%D 2024-05-12
+%K Computer Science - Computers and Society
+Economics - General Economics
+
+%0 Journal Article
+%T Detection and Discovery of Misinformation Sources Using Attributed Webgraphs
+%V 18
+%P 214-226
+%U https://ojs.aaai.org/index.php/ICWSM/article/view/31309
+%X Website reliability labels underpin almost all research in misinformation detection. However, misinformation sources often exhibit transient behavior, which makes many such labeled lists obsolete over time. We demonstrate that Search Engine Optimization (SEO) attributes provide strong signals for predicting news site reliability. We introduce a novel attributed webgraph dataset with labeled news domains and their connections to outlinking and backlinking domains. We demonstrate the success of graph neural networks in detecting news site reliability using these attributed webgraphs, and show that our baseline news site reliability classifier outperforms current SoTA methods on the PoliticalNews dataset, achieving an F1 score of 0.96. Finally, we introduce and evaluate a novel graph-based algorithm for discovering previously unknown misinformation news sources.
+%G en
+%J Proceedings of the International AAAI Conference on Web and Social Media
+%A Carragher, Peter
+%A Williams, Evan M.
+%A Carley, Kathleen M.
+%D 2024-05-28
+
+%0 Journal Article
+%T High level of correspondence across different news domain quality rating sets
+%X One widely used approach for quantifying misinformation consumption and sharing is to evaluate the quality of the news domains that a user interacts with. However, different media organizations and fact-checkers have produced different sets of news domain quality ratings, raising questions about the reliability of these ratings. In this study, we compared six sets of expert ratings and found that they generally correlated highly with one another. We then created a comprehensive set of domain ratings for use by the research community (github.com/hauselin/domain-quality-ratings), leveraging an ensemble “wisdom of experts” approach. To do so, we performed imputation together with principal component analysis to generate a set of aggregate ratings. The resulting rating set comprises 11,520 domains—the most extensive coverage to date—and correlates well with other rating sets that have more limited coverage. Together, these results suggest that experts generally agree on the relative quality of news domains, and the aggregate ratings that we generate offer a powerful research tool for evaluating the quality of news consumed or shared and the efficacy of misinformation interventions.
+%G en
+%A Lin, Hause
+
+%0 Generic
+%T Susceptibility to Online Misinformation: A Systematic Meta-Analysis of Demographic and Psychological Factors
+%* https://creativecommons.org/licenses/by/4.0/legalcode
+%U https://osf.io/7u4fg
+%X Despite a surge of research into misinformation, it is largely unclear who falls for misinformation and why. We conducted a systematic individual participant data meta-analysis covering 256,337 unique choices made by 11,561 participants across 31 experiments. Our metaanalysis reveals the impact of key demographic and psychological factors on online misinformation veracity judgments. We also disentangle the ability to discern between true and false news (discrimination ability) from the response bias, that is, a tendency to label news as either true (true-news bias) or false (false-news bias). We find that older age, higher analytic thinking skills, and identifying as a Democrat are associated with higher discrimination ability. Older age and higher analytical thinking skills are also associated with a false-news bias (caution). In contrast, ideological congruency, motivated reflection, and familiarity are associated with a true-news bias (naïvety). Our results touch upon ongoing debates in the literature and provide critical insights that can help design targeted interventions.
+%G en
+%A Sultan, Mubashir
+%A Tump, Alan Novaes
+%A Ehmann, Nina
+%A Lorenz-Spreen, Philipp
+%A Hertwig, Ralph
+%A Gollwitzer, Anton
+%A Kurvers, Ralf
+%D 2024-05-03
+
+%0 Journal Article
+%T Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking
+%X Link prediction attempts to predict whether an unseen edge exists based on only a portion of edges of a graph. A flurry of methods have been introduced in recent years that attempt to make use of graph neural networks (GNNs) for this task. Furthermore, new and diverse datasets have also been created to better evaluate the effectiveness of these new models. However, multiple pitfalls currently exist that hinder our ability to properly evaluate these new methods. These pitfalls mainly include: (1) Lower than actual performance on multiple baselines, (2) A lack of a unified data split and evaluation metric on some datasets, and (3) An unrealistic evaluation setting that uses easy negative samples. To overcome these challenges, we first conduct a fair comparison across prominent methods and datasets, utilizing the same dataset and hyperparameter search settings. We then create a more practical evaluation setting based on a Heuristic Related Sampling Technique (HeaRT), which samples hard negative samples via multiple heuristics. The new evaluation setting helps promote new challenges and opportunities in link prediction by aligning the evaluation with real-world situations. Our implementation and data are available at https://github.com/Juanhui28/HeaRT.
+%G en
+%A Li, Juanhui
+%A Shomer, Harry
+%A Mao, Haitao
+%A Zeng, Shenglai
+%A Ma, Yao
+%A Shah, Neil
+%A Tang, Jiliang
+%A Yin, Dawei
+
+%0 Journal Article
+%T Graph Neural Network with curriculum learning for imbalanced node classification
+%V 574
+%P 127229
+%U https://linkinghub.elsevier.com/retrieve/pii/S0925231223013528
+%X Graph Neural Network (GNN) stands as an emerging methodology for graph-based learning tasks, particularly for node classification. This study elucidates the susceptibility of GNN to discrepancies arising from imbalanced node labels. Conventional solutions for imbalanced classification, such as resampling, falter in node classification task, primarily due to their negligence of graph structure. Worse still, they often exacerbate the model’s inclination towards overfitting or underfitting, especially in the absence of adequate priori knowledge. To circumvent these limitations, we introduce a novel Graph Neural Network framework with Curriculum Learning (GNN-CL). This framework integrates two pivotal components. Initially, leveraging the principles of smoothness and homophily, we endeavor to procure dependable interpolation nodes and edges via adaptive graph oversampling. For another, we combine the Graph Classification Loss with the Metric Learning Loss, thereby refining the spatial proximity of nodes linked to the minority class in the feature space. Drawing inspiration from curriculum learning, the parameters of these components are dynamically modulated during the training phase to accentuate generalization and discrimination capabilities. Comprehensive evaluations on several widely used graph datasets affirm the superiority of our proposed model, which consistently outperforms the existing state-of-the-art methods.
+%G en
+%J Neurocomputing
+%A Li, Xiaohe
+%A Fan, Zide
+%A Huang, Feilong
+%A Hu, Xuming
+%A Deng, Yawen
+%A Wang, Lei
+%A Zhao, Xinyu
+%D 03/2024
+
+%0 Generic
+%T Graph Neural Networks with Continual Learning for Fake News Detection from Social Media
+%I arXiv
+%U http://arxiv.org/abs/2007.03316
+%X Although significant effort has been applied to fact-checking, the prevalence of fake news over social media, which has profound impact on justice, public trust and our society as a whole, remains a serious problem. In this work, we focus on propagation-based fake news detection, as recent studies have demonstrated that fake news and real news spread differently online. Specifically, considering the capability of graph neural networks (GNNs) in dealing with non-Euclidean data, we use GNNs to differentiate between the propagation patterns of fake and real news on social media. In particular, we concentrate on two questions: (1) Without relying on any text information, e.g., tweet content, replies and user descriptions, how accurately can GNNs identify fake news? Machine learning models are known to be vulnerable to adversarial attacks, and avoiding the dependence on text-based features can make the model less susceptible to the manipulation of advanced fake news fabricators. (2) How to deal with new, unseen data? In other words, how does a GNN trained on a given dataset perform on a new and potentially vastly different dataset? If it achieves unsatisfactory performance, how do we solve the problem without re-training the model on the entire data from scratch, which would become prohibitively expensive in practice as the data volumes grow? We study the above questions on two datasets with thousands of labelled news items, and our results show that: (1) GNNs can achieve comparable or superior performance without any text information to state-of-the-art methods. (2) GNNs trained on a given dataset may perform poorly on new, unseen data, and direct incremental training cannot solve the problem—this issue has not been addressed in the previous work that applies GNNs for fake news detection. In order to solve the problem, we propose a method that achieves balanced performance on both existing and new datasets, by using techniques from continual learning to train GNNs incrementally.
+%G en
+%A Han, Yi
+%A Karunasekera, Shanika
+%A Leckie, Christopher
+%D 2020-08-14
+%K Computer Science - Machine Learning
+Computer Science - Social and Information Networks
+
+%0 Conference Paper
+%T AMOSL: Adaptive Modality-Wise Structure Learning in Multi-View Graph Neural Networks for Enhanced Unified Representation
+%I Academy & Industry Research Collaboration Center
+%P 139-155
+%@ 978-1-923107-27-4
+%U https://aircconline.com/csit/papers/vol14/csit141013.pdf
+%X While Multi-view Graph Neural Networks (MVGNNs) excel at leveraging diverse modalities for learning object representation, existing methods assume identical local topology structures across modalities that overlook real-world discrepancies. This leads MVGNNs straggles in modality fusion and representations denoising. To address these issues, we propose adaptive modality-wise structure learning (AMoSL). AMoSL captures node correspondences between modalities via optimal transport, and jointly learning with graph embedding. To enable efficient end-to-end training, we employ an efficient solution for the resulting complex bilevel optimization problem. Furthermore, AMoSL adapts to downstream tasks through unsupervised learning on inter-modality distances. The effectiveness of AMoSL is demonstrated by its ability to train more accurate graph classifiers on six benchmark datasets.
+%G en
+%B Advanced Natural Language Processing
+%A Liang, Peiyu
+%A Gao, Hongchang
+%A He, Xubin
+%D 2024-05-25
+
+%0 Conference Paper
+%T FakeDetector: Effective Fake News Detection with Deep Diffusive Neural Network
+%P 1826-1829
+%U https://ieeexplore.ieee.org/document/9101457/?arnumber=9101457
+%X In recent years, due to the booming development of online social networks, fake news for various commercial and political purposes has been appearing in large numbers and widespread in the online world. With deceptive words, online social network users can get infected by these online fake news easily, which has brought about tremendous effects on the offline society already. An important goal in improving the trustworthiness of information in online social networks is to identify the fake news timely. This paper aims at investigating the principles, methodologies and algorithms for detecting fake news articles, creators and subjects from online social networks and evaluating the corresponding performance. This paper addresses the challenges introduced by the unknown characteristics of fake news and diverse connections among news articles, creators and subjects. This paper introduces a novel gated graph neural network, namely FAKEDETECTOR. Based on a set of explicit and latent features extracted from the textual information, FAKEDETECTOR builds a deep diffusive network model to learn the representations of news articles, creators and subjects simultaneously. Extensive experiments have been done on a real-world fake news dataset to compare FAKEDETECTOR with several state-of-the-art models, and the experimental results are provided in the full-version of this paper at [13].
+%B 2020 IEEE 36th International Conference on Data Engineering (ICDE)
+%A Zhang, Jiawei
+%A Dong, Bowen
+%A Yu, Philip S.
+%D 2020-04
+%K Social network services
+Data mining
+Data Mining
+Diffusive Network
+Fake News Detection
+Feature extraction
+Graph Neural Network
+Logic gates
+Neural networks
+Task analysis
+Text Mining
+Voting
+
+%0 Journal Article
+%T Fake news detection: A survey of graph neural network methods
+%V 139
+%P 110235
+%U https://www.sciencedirect.com/science/article/pii/S1568494623002533
+%X The emergence of various social networks has generated vast volumes of data. Efficient methods for capturing, distinguishing, and filtering real and fake news are becoming increasingly important, especially after the outbreak of the COVID-19 pandemic. This study conducts a multiaspect and systematic review of the current state and challenges of graph neural networks (GNNs) for fake news detection systems and outlines a comprehensive approach to implementing fake news detection systems using GNNs. Furthermore, advanced GNN-based techniques for implementing pragmatic fake news detection systems are discussed from multiple perspectives. First, we introduce the background and overview related to fake news, fake news detection, and GNNs. Second, we provide a GNN taxonomy-based fake news detection taxonomy and review and highlight models in categories. Subsequently, we compare critical ideas, advantages, and disadvantages of the methods in categories. Next, we discuss the possible challenges of fake news detection and GNNs. Finally, we present several open issues in this area and discuss potential directions for future research. We believe that this review can be utilized by systems practitioners and newcomers in surmounting current impediments and navigating future situations by deploying a fake news detection system using GNNs.
+%J Applied Soft Computing
+%A Phan, Huyen Trang
+%A Nguyen, Ngoc Thanh
+%A Hwang, Dosam
+%D 2023-05-01
+%K Fake news
+Fake news characteristics
+Fake news detection
+Fake news features
+Graph neural network
+
